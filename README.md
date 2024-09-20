@@ -75,7 +75,7 @@ The Terraform configuration folder named **Terraform CI-CD-GitHub-Jenkins-EC2 In
 - Apply the configuration:
 
 	```bash
-	terraform apply
+	terraform apply "tfplan"
 	```
 	
 ## Preparing Jenkins
